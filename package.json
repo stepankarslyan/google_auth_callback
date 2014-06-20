@@ -1,0 +1,9 @@
+{
+  "name": "Google_authentication_callback",
+  "version": "0.0.1",
+  "private": "true",
+  "dependencies": {
+    "googleapis":"*",
+    "express":"*"
+  }
+}
