@@ -4,7 +4,8 @@
   "private": "true",
   "dependencies": {
     "express":"*",
-    "zmq":"*",
-    "cookieparser":"*"
+    "zmq":"onicollet/zmq",
+    "cookieparser":"*", 
+    "optimist":"*"
   }
 }
